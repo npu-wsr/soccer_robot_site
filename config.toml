@@ -1,4 +1,4 @@
-baseURL = "https://npu-wsr.github.io"
+baseURL = "https://npu-wsr.github.io/soccer_robot_site"
 title = "Hawking: a wheeled soccer robot"
 theme = "sourgough-starter"
 publishDir = "docs"
