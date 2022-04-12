@@ -1,2 +1,2 @@
-# soccer_robot_site.github.io
+# soccer_robot_site
 Our Wheeled Soccer Robot's Homepage.
